@@ -14,5 +14,7 @@ func func1(){
 }
 func function2() {
 
+}
+func function3() {
 	
 }
