@@ -12,3 +12,7 @@ func func1(){
 	asdasdasdasddffasfasdfaess
 	*/
 }
+func function2() {
+
+	
+}
